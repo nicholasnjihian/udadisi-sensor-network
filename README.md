@@ -1,6 +1,6 @@
 #SETUP:
 ---
-![Network Setup](./images/sensor_microcontroller_network)
+![Network Setup](./images/sensor_microcontroller_network.png)
 
 
 ## DEVELOPMENT BOARD:
