@@ -7,8 +7,9 @@
 ---
 
 I am using an ARM Mbed development board, but this is just for building a prototype. I will probably use an STM32 board in production. However, in both staging and production, I will use an ARM Cortex-based board.
+
 I could have used an Arduino but most cheap Arduinos are rather limited in functionality if they use the ATMega chip. However, the Arduino is a good prototyping board just like the ARM Mbed.
-However, in production the ST, Texas Instruments and PIC mocrocontrollers are preferred.
+However, in production the ST, Texas Instruments and PIC microcontrollers are preferred.
 
 For LoRaWAN communications(I am using LoRA network) I use an Mbed OS Enabled development board together with a LoRa shield.
 A LoRA gateway can be built using a Raspberry Pi and an IMST iC880A concentrator. At about 150 euros, this is a cost-efficient option.
