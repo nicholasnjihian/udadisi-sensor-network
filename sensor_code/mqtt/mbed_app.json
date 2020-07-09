@@ -1,0 +1,11 @@
+{
+    "macros": {
+        "MQTTCLIENT_QOS2"
+    },
+    "target_overrides": {
+        "*": {
+            "mbed-mqtt.max-connections": "5",
+            "mbed-mqtt.max-packet-size": "1024"
+           }
+    }
+}
