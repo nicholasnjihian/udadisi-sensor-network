@@ -1,4 +1,4 @@
-#SETUP:
+#SETUP(This repo is a work in progress):
 ---
 ![Network Setup](./images/sensor_microcontroller_network.png)
 
