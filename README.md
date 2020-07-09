@@ -42,17 +42,17 @@ __The following are the required components:__
 5. LEDs. 
 6. LoraWAN shields, which can be either [SX1276MB1xAS](https://developer.mbed.org/components/SX1276MB1xAS/) which is a shield based on the SX1276 transceiver., [SX1272MB2xAS](https://developer.mbed.org/components/SX1272MB2xAS/) which is shield based on the SX1276 transceiver, and finally, the [L-TEK FF1705](https://developer.mbed.org/components/L-TEK-FF1705/).
 
-## COMMUNICATION WITH RASPBERRY PI GATEWAY:
+### COMMUNICATION WITH RASPBERRY PI GATEWAY:
 ---
 This is done via LoRAWAN.
 LoRa stands for long-range communications technology that's intended for low-power, long-range communications of battery powered IoT devices(Low-power wide-area networks). It supports bidirectional communications of networks and millions of devices.
 It also has a good link budget.
 
 
-__SYNOPSIS:__
+### SYNOPSIS:
 ---
 
-There are various MQ gas sensors and of importance in this project is the MQ-4 gas sensor which can be used to monitor the Methane gas in stored food such as in granaries and silos in real-time. 
+There are various MQ gas sensors and of importance in this project is the ___MQ-4___ gas sensor which can be used to monitor the Methane gas in stored food such as in granaries and silos in real-time. 
 Info on MQ gas sensor can be found [here](https://components101.com/sensors/mq-4-methane-gas-sensor-pinout-datasheet).
 The above web page lists the following as the advantages of MQ-4:
 MQ-4 Gas Sensor Features
