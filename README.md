@@ -29,7 +29,7 @@ IBM provides an ARM Mbed Ethernet IOT starter kit (development board + USB cable
 
 ARM Mbed programs use C++ language.
 
-# COMPONENTS/PERIPHERALS FOR DEVELOPMENT BOARD:
+### COMPONENTS/PERIPHERALS FOR DEVELOPMENT BOARD:
 ---
 
 __The following are the required components:__
