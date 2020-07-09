@@ -10,7 +10,8 @@ I am using an ARM Mbed development board, but this is just for building a protot
 
 For LoRaWAN communications(I am using LoRA network) I use an Mbed OS Enabled development board together with a LoRa shield.
 A LoRA gateway can be built using a Raspberry Pi and an IMST iC880A concentrator. At about 150 euros, this is a cost-efficient option.
-![LoRA Gateway](.images/lora5.jpg)
+
+![LoRA Gateway](./images/lora5.jpg)
 
 The process for setting up a Raspberry Pi gateway is [here](https://github.com/ttn-zh/ic880a-gateway/wiki).
 
