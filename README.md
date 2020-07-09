@@ -14,10 +14,11 @@ A LoRA gateway can be built using a Raspberry Pi and an IMST iC880A concentrator
 
 The process for setting up a Raspberry Pi gateway is [here](https://github.com/ttn-zh/ic880a-gateway/wiki).
 
-__NOTE:__A network server is needed to interpret the LoRA packets and send them to the app or the cloud for processing. Here I am using ___The Things Network___ network server, an open source, globally distributed network service that also has a free hosted community edition.
+__NOTE:__ A network server is needed to interpret the LoRA packets and send them to the app or the cloud for processing. Here I am using ___The Things Network___ network server, an open source, globally distributed network service that also has a free hosted community edition.
 The Things Network allows you to hook into its service through an MQTT client and forward your data to the cloud service of your choice (or straight to your application).
 
 ### __INTRODUCTION:__
+
 __This project used an ARM Mbed development board.__
 
 The ARM Mbed Ethernet IoT starter kit is composed of an ARM M4 cortex running up to 120 MHz and has a 1024 KB Flash memory as well as 256KB RAM and lots of peripheries and interfaces.
